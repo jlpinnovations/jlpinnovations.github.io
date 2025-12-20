@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy/
+---
 # Privacy Policy for SwaraPad
 
 **Last updated:** December 19, 2025
