@@ -22,7 +22,7 @@ We use **Google AdMob** to display advertisements within the app. Google may use
 
 * **Google AdMob:** This service is provided by Google Inc.
 * Google uses cookies and/or unique device identifiers to personalize ads for you.
-* You can learn more about how Google uses your data here: [Google Privacy & Terms](https://policies.google.com/technologies/partner-sites).
+* You can learn more about how Google uses your data here: [Google Privacy & Terms](https://support.google.com/admob/answer/6128543?hl=en).
 
 ### Log Data
 We want to inform you that whenever you use our Service, in a case of an error in the app, we (via third-party products like Apple or Google) may collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
